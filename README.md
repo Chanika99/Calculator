@@ -1,2 +1,2 @@
-# Calculator
- coding Practice- calculator
+# Simple Calculator
+ coding Practice- Simple calculator
